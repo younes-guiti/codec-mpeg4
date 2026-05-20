@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Présentation
+##  Présentation
 
 Implémentation complète d’un **codec vidéo hybride simplifié** inspiré des normes **MPEG-4 / H.264**.
 
@@ -18,7 +18,7 @@ Le projet couvre l’ensemble du pipeline moderne de compression vidéo :
 
 ---
 
-## 🚀 Performances
+##  Performances
 
 **Configuration standard (QF=79, GOP=8, 16 frames 128×128)**
 
@@ -32,7 +32,7 @@ Le projet couvre l’ensemble du pipeline moderne de compression vidéo :
 
 ---
 
-## 📋 Utilisation
+##  Utilisation
 
 ### 1. Mode Démo (recommandé pour tester rapidement)
 
