@@ -34,7 +34,7 @@ Le projet couvre l’ensemble du pipeline moderne de compression vidéo :
 
 ##  Utilisation
 
-### 1. Mode Démo (recommandé pour tester rapidement)
+###  Mode Démo (recommandé pour tester rapidement)
 
 ```bash
 python main.py --demo --qf 79 --gop 8 --analyse
